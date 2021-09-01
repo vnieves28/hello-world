@@ -1,2 +1,6 @@
 # hello-world
-Just another one
+
+Hello Everyone!
+
+My name's Veronica! My favorite food is tamales and rice!
+My favorite color is Pink too!
